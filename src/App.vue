@@ -15,13 +15,16 @@ import Home from './components/Home.vue'
             <div class="spacer">&nbsp;</div>
             <dcb:nav id="ctlNavTop" runat="server"></dcb:nav> -->
       <div id="header">
-        <table id="headertable" align="center" cellpadding="0" cellspacing="0">
+        <!-- <table id="headertable" align="center" cellpadding="0" cellspacing="0">
           <tr>
             <td><a href="default.aspx" class="nodecoration"><img src="./assets/icon2.png" border="0"></a></td>
             <td><a href="default.aspx" class="nodecoration black">Denny Creek Brewing</a></td>
           </tr>
-        </table>
+        </table> -->
+        <a href="default.aspx" class="nodecoration"><img src="./assets/icon2.png" border="0"></a>
+        <a href="default.aspx" class="nodecoration black">Denny Creek Brewing</a>
       </div>
+      <div class="spacer">&nbsp;</div>
       <div id="nav">
         <div style="padding: 5px;">
           <a href="/default.aspx">Home</a> |
@@ -50,14 +53,7 @@ import Home from './components/Home.vue'
 </template>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 body {
   background-color: #777777;
   background-color: #CE8600;
@@ -67,6 +63,17 @@ body {
   /* center page content for IE */
   text-align: center;
 }
+
+/* 
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+ */
 
 a {
   color: #007F0E;
@@ -130,6 +137,9 @@ img {
 
 #header img {
   border: none;
+  height: 100%;
+  vertical-align: middle;
+  margin: 10px 20px 10px;
 }
 
 #headertable {
