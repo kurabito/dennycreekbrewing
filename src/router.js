@@ -1,0 +1,23 @@
+import {
+  createRouter,
+  createWebHistory
+} from 'vue-router/dist/vue-router.esm-bundler';
+import Home from './components/Home.vue';
+import BrewLogs from './components/BrewLogs.vue';
+
+export default () =>
+  createRouter({
+    history: createWebHistory(),
+    routes: [
+      {
+        path: '/',
+        name: 'Home',
+        component: Home
+      },
+      {
+        path: '/logs',
+        name: 'Brew Logs',
+        component: BrewLogs
+      },
+    ]
+  });
