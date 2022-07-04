@@ -27,19 +27,19 @@ import Home from './components/Home.vue'
       <div class="spacer">&nbsp;</div>
       <div id="nav">
         <div style="padding: 5px;">
-          <a href="/default.aspx">Home</a> |
-          <a href="/calendar.aspx">Calendar</a> |
-          <a href="/logs.aspx">Brew Logs</a> |
-          <a href="/labels.aspx">Labels</a> |
-          <a href="/competitions.aspx">Competitions</a> |
+          <router-link to="/">Home</router-link> |
+          <!-- <a href="/calendar.aspx">Calendar</a> | -->
+          <router-link to="/logs">Brew Logs</router-link> |
+          <router-link to="/labels">Labels</router-link> |
+          <router-link to="/competitions">Competitions</router-link> |
           <a href="http://dennycreek.blogspot.com" target="_blank">Blog</a> |
           <a href="http://jbrog.blogspot.com" target="_blank">JBrog</a> |
-          <a href="/resources.aspx">Resources</a> |
-          <a href="/contact.aspx">Contact</a>
+          <router-link to="/resources">Resources</router-link> |
+          <!-- <a href="/contact.aspx">Contact</a> -->
         </div>
       </div>
       <div id="content">
-        <Home />
+        <router-view />
       </div>
       <!-- <dcb:footer id="ctlFooter" runat="server"></dcb:footer> -->
       <!-- To do: set end year dynamically -->
