@@ -1,0 +1,133 @@
+
+Denny Creek Festivus Ale
+
+10 gallon recipe
+
+26 lbs 2 row Pale
+2 lb 120L Crystal
+1 lb 60L Crystal
+
+2 oz Chinook 60 min
+2 oz Centennial 45 min
+2 oz Centennial 30 min
+2 oz Centennial 15 min
+2 oz Cascade while cooling
+2 oz Cascade dry
+2 oz Centennial dry
+
+Wyeast 1056
+
+
+Mash water quantity: 29 lb. grain X 1.25 quarts/lb. = ~36 quarts
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.25)(152-70)+152
+Tw = .16 X 82 + 152
+Tw = 165.1° F
+
+Mash at 152° F for 90 minutes
+Sparge with 170° F water to obtain ~13 gallons
+Boil for 75 minutes
+
+
+
+Friday 8/31/07
+
+Set out ~15 gallons of water
+
+
+Saturday 9/1/07
+
+Brew sponsors: Ken and Charles
+Brewers present: Jeff, Ken, Charles
+1206 Begin heating water (~9 gallons)
+1225 Activate yeast
+1245 Begin dough in
+1255 Dough in complete
+     Heated additional water to bring up temperature to 152° F (we didn't pre-heat the mash tun)
+     Total mash water quantity: ~10 gallons
+     Temperature held at 152° F until about 1400
+     Heat ~5 gallons sparge water
+1425 Begin sparge
+     Ran out of sparge water after collecting about 10 gallons
+     Heat up ~3 more gallons
+     Sparge stuck, freed up by blowing back into drain tube
+1540 Sparge complete, begin boil
+1640 Hot break
+1740 Flame out (60 minute boil instead of 75 minutes)
+     Begin chilling
+     Hose to wort chiller melted in burner flame, emergency jury rig
+1840 (approx.) Wort at 79° F, begin transfer to fermenters
+
+No OG taken
+
+
+Sunday 9/23/07
+
+Kegged in kegs A and B
+FG: 1.006 at 67° = 1.007
+
+
+
+Next time:
+* Set out ~18 gallons of water in advance
+* Boil for 75 minutes
+
+
+
+Notes from previous brewing of this recipe:
+
+
+Celebration  11/5/2005
+
+Recipe from brewery.org:
+
+Source: Craig Rode
+Recipe added: 05/16/97
+Email: craig.rode@sdrc.com
+Yeah, it's a lot of hops. But it's pretty close to SNCA. I get about 27 p/p/g with this recipe, you may want to adjust your grain bill. The 120L crystal adds a caramel sweetness and color that is characteristic of SNCA. Dryhopping is a necessity to pick up the centennial nose. Enjoy! Email me if you try this, I'd like to hear how it goes.
+Specifics
+Recipe type: All Grain
+Batch Size: 5
+Starting Gravity: 1.066
+Finishing Gravity: 1.015
+Time in Boil: 75min
+Primary Fermentation: 5 Days
+Secondary Fermentation: 10 Days
+Ingredients:
+· 13 lbs Schrier 2 Row Pale
+· 1 lb 120L Crystal
+· .5 lb 60L Crystal
+· 1 oz chinook 60 min
+· 1 oz centennial 45 min
+· 1 oz centennial 30 min
+· 1 oz centennial 15 min
+· 1 oz cascade while cooling
+· 1 oz cascade dry
+· 1 oz centennial dry
+· Wyeast 1056
+Procedure:
+Mash at 152F 90 minutes
+
+Mash water quantity: 14.5 lb. grain X 1.25 quarts/lb. + 4.5 = ~22.5 quarts
+
+Water to grain ratio: 22.5 / 14.5 = 1.55 quarts/lb.
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.55)(152-70)+152
+Tw = .13 X 82 + 152
+Tw = 162.5° F
+
+2:50 Dough in. Worried about the temperature falling too low during the mash and let the strike water get up to about 166°, resulting in an initial mash temperature of about 156°. Began sparge after about 75 minutes with 170° water. I think we used too much water to sparge, as we ended up with perhaps a bit more than 8 gallons of wort before without fully draining the mash. Added about 8 gallons to the boil kettle and discarded a couple quarts or so of wort.
+
+4:33 Begin boil
+5:12 Hot break
+6:17 Begin cooling
+
+Cooled for about 30 minutes until the temperature fell to about 75°. Draining into fermenter provided ample aeration, judging from the thick layer of foam on the top. Original gravity: 1.050 at ~70° = 1.051.
+
+That's a Lot of Hops!
+
+OG: 1.050 at 70° = 1.051

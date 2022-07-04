@@ -1,0 +1,76 @@
+
+Denny Creek Scottish Export Ale
+
+10 gallons
+
+14 lb Pale Ale Malt
+3  lb Cara-Pils
+7  oz Roast Barley
+
+2  oz Mount Hood hops
+
+
+Wyeast 1728 - Scottish Ale™
+
+
+
+Mash at 150° to 155° F for one hour
+Sparge with 165°-175° water to obtain about 14 gallons of wort
+Boil for 120-180 minutes
+Add hops 60 minutes before end of boil
+Ferment at 62° to 65° F
+
+Mash water: 18 lb. grain X 1.25 quarts/lb. = 22.5 quarts = ~ 5.5 gallons
+Target total wort: 10 boiled wort + .1 boiled hops absorption + 4 boiloff = 14.1 gallons
+Sparge water: 14.1 - 5.5 + 2 mash absorbtion = 10.6 gallons
+Total water quantity: 5.5 + 10.6 = 16.1 gallons
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.25)(152-70)+152
+Tw = .16 X 82 + 152
+Tw = 165° F
+
+
+Saturday 11/3/07:
+
+Set out ~18 gallons of water to allow chlorine to evaporate and raise temperature
+
+
+Sunday 11/4/07:
+
+Brewers present: Jeff, Ken, Charles, Robert, Derek
+1220 Begin heating mash water to 165° F (9 gallons)
+1315 Begin dough in
+1320 Dough in complete, mash temperatrure 155° F
+1330 Begin heating sparge water, 9 gallons, heat to 170° F
+1420 Begin sparge
+1436 Start burner under first runnings boil kettle
+1510 Start burner under second runnings boil kettle
+1506 Sparge complete
+1506 Hot break, first runnings
+1606 Hot break, second runnings, add ~1.25 oz fresh Mount Hood hops
+1625 Add ~1.25 oz fresh Mount Hood hops to first runnings
+1725 Add ~1.25 oz fresh Mount Hood hops to second runnings
+1725 Burner off, first runnings, begin chilling
+1757 Begin transfer to fermenter, first runnings
+1806 Burner off, second runnings, begin chilling
+1800 Pitch yeast, first runnings
+1810 Transfer to fermenters complete, first runnings
+OG, second runnings: 1.016
+
+Saturday 11/10/07:
+
+Racked to carboys
+SG, first runnings: 1.016 @68° F = 1.017
+SG, second runnings: 1.003
+
+
+Saturday 11/24/07:
+
+First runnings kegged in keg B FG: 1.015 @ 65° F = 1.016
+Second runnings kegged in keg C FG: 1.003 @ 65° F = 1.004
+ABV: 1.016 - 1.004 / .75 = 1.6%
+
+
+

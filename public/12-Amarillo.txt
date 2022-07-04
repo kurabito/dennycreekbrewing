@@ -1,0 +1,61 @@
+
+Denny Creek Amarillo Pale Ale
+10 gallons
+
+
+22 lbs. American 2-row
+1  lbs. Crystal Malt 10°L
+1  lbs. Crystal Malt 20°L
+
+1.5 oz. Amarillo boiled 60 min.
+1   oz. Amarillo boiled 15 min.
+.5  oz. Amarillo boiled 5 min.
+1   oz. Amarillo boiled 1 min.
+2   oz. Amarillo used as dry hop.
+
+Yeast : WYeast 1056 American Ale™
+
+
+Mash at 150° to 152° F for 60 min.
+Sparge with 165°-175° water to obtain about 13.5 gallons of wort
+Boil for 60 minutes
+Ferment at 60° to 72° F
+
+
+Mash water quantity: 24 lb. grain X 1.25 quarts/lb. = 30 quarts = 7.5 gallons
+Target total wort: 10 boiled wort + .5 boiled hops absorption + 2.5 boiloff = 13 gallons
+Sparge water: 13 - 7.5 + 2 mash absorbtion = 7.5 gallons
+Total water quantity: 7.5 + 7.5 = 15 gallons
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.25)(152-50)+152
+Tw = .16 X 102 + 152
+Tw = 168° F
+
+
+Friday 2/29/08:
+
+Set out ~18 gallons of water to allow chlorine to evaporate and raise temperature
+
+
+Sunday 3/1/08:
+
+Brewers present: Jeff, Charles, Ken
+09:49 Begin heating mash water, 9 gallons, heat to 168° F
+10:35 Warm up mash tun
+      Begin dough in
+12:15 Dough in complete
+      Begin heating sparge water, 8 gallons, heat to 170° F
+13:20 Begin sparge
+13:25 Start burner under boil kettle
+13:57 Sparge complete
+14:27 Hot break, begin boil for 60 minutes
+
+
+Thursday 3/27/08:
+
+Kegged in kegs B and C
+FG: 1.004 @66° F = 1.005
+Dry hopped with 1 oz. Amarillo in each keg
+

@@ -1,0 +1,89 @@
+
+Denny Creek Amber Ale
+
+10 gallons
+
+17 lb 2-row (Gambrinus)
+3  lb Munich malt (Briess Organic)
+2  lb 60 L Crystal malt (Breiss)
+4  oz roasted barley (Hugh Baird)
+3  oz Chocolate malt (Hugh Baird)
+
+4 oz Cascade hops (60 min.)
+2 oz Cascade hops (last 5 min.)
+2 oz Cascade hops (last 1 min.)
+
+Wyeast 1028 London Ale™
+
+
+Mash at 150° to 155° F for one hour
+Sparge with 165°-175° water to obtain about 13.5 gallons of wort
+Boil for 60 minutes
+Add hops according to schedule
+
+
+Mash water: 22.5 lb. grain X 1.25 quarts/lb. = 28 quarts = 7 gallons
+Target total wort: 10 boiled wort + .5 boiled hops absorption + 3 boiloff = 13.5 gallons
+Sparge water: 13.5 - 7 + 2 mash absorbtion = 8.5 gallons
+Total water quantity: 7 + 8.5 = 15.5 gallons
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.25)(152-70)+152
+Tw = .16 X 82 + 152
+Tw = 165° F
+
+
+Friday 12/14/07:
+
+Set out ~18 gallons of water to allow chlorine to evaporate and raise temperature
+
+
+Sunday 12/16/07:
+
+Brew sponsor: Ken
+Brewers present: Jeff, Ken, Charles
+Modifications to recipe:
+  Used Great Western  2-row
+  Used 1318 London Ale III for half of batch
+
+1222 Begin heating mash water to 165° F (8 gallons)
+1300 Warm up mash tun
+1310 Begin dough in
+1321 Dough in complete, mash temperature ~148° F, added more near-boiling water, eventually got up to ~152° F
+1450 Begin heating sparge water, 9 gallons, heat to 165° F
+1530 Begin sparge
+1532 Burner on
+1705 Hot break, add 4 oz Cascade hops
+1800 Add 2 oz Cascade hops
+1804 Add 2 oz Cascade hops
+1806 Burner off, begin chilling
+     Wort chilled to 75° F
+1915 Transfer to fermenters complete
+
+OG: 1.046 @70° F = 1.047
+
+
+Sunday 12/23/07:
+
+Racked 1028 London to carboy
+SG: 1.011 @65° F = 1.012
+
+
+Monday 12/24/07:
+
+Racked 1318 London III to carboy
+SG: 1.012 @66° F = 1.013
+
+
+Saturday 1/12/08:
+
+Kegged London in keg A and London III in keg B
+London FG: 1.008 @ 68° F = 1.009
+London III FG: 1.007 @ 68° F = 1.008
+London ABV: 1.047 - 1.009 / .75 = 5.1%
+London III ABV: 1.047 - 1.008 / .75 = 5.2%
+
+
+Next time:
+Allow for more impact of cold ambient temperature on strike water temperature -- strike with hotter water when it's cold outside!

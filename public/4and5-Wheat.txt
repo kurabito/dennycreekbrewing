@@ -1,0 +1,109 @@
+
+"Wheaty Wheat" recipe from Beer Tools scaled to 5 gallons:
+
+4.03 lbs.  	American 2-row
+4.56 lbs. 	White Wheat Malt
+0.14 lbs. 	Crystal Malt 20°L
+0.26 lbs. 	Belgian Cara-Pils
+1.0 oz. 	Hallertau Hersbruck (Pellets, 4.50 %AA) boiled 60 min.
+0.5 oz. 	Hallertau (Pellets, 4.50 %AA) boiled 15 min.
+0.5 oz. 	Hallertau (Pellets, 4.50 %AA) boiled 1 min.
+Yeast : 	White Labs WLP001 California Ale
+
+
+Denny Creek Wheat recipe for 10 gallons:
+
+8.2 lbs.  	American 2-row (Great Western)
+9.2 lbs. 	American Wheat (Great Western)
+0.4 lbs.	Crystal Malt 20°L
+0.6 lbs.	Cara-Pils
+2.0 oz. 	Hallertau 3.9 %AA boiled 60 min.
+1.0 oz. 	Hallertau boiled 15 min.
+1.0 oz. 	Hallertau boiled 1 min.
+Yeast : 	Fermenter 1: Wyeast 3068 Weihenstephan Weizen
+		Fermenter 2: Wyeast 1010 American Ale
+
+
+All temperatures in Farenheit
+
+Planned procedure:
+Mash at 150° to 152° for 60 min.
+Sparge with 165°-175° water to obtain about 12.5 gallons of wort
+Boil for 90 minutes
+Ferment at 64-75° for Weihenstephan, 58-74º for American
+
+
+Mash water quantity: 9 lb. grain X 1.25 quarts/lb. + 4.5 = 16 quarts
+
+Water to grain ratio: 16 / 9 = 1.78 quarts/lb.
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.78)(152-70)+152
+Tw = .11 X 82 + 152
+Tw = 161.2° F
+
+
+Thursday 6/14/07 evening:
+
+Set out ~12 gallons of water to allow chlorine to evaporate and raise temperature
+
+
+Saturday 6/16/07:
+
+Decided to increase batch size to 10 gallons.  Bought a new brew kettle from Bob.
+Heat ~1 gallon of water for warming mash tun in pot on stove
+Heat 8 gallons of water for mash in old brew kettle on propane burner
+
+Heated mash water to 170+°
+Warmed mash tun with boiling water
+Added some cold water to mash water, ended up at about 150°
+1235 Begin dough in
+1240 Dough in complete, mash temperature 141°
+     Decocted about 2 gallons wort and grain
+     Activate yeast pack
+1357 Decoction at 155°, hold for 10 minutes
+1407 Begin boiling decoction
+     Return decoction to mash tun
+1426 Mash at 160°
+     Begin heating 9 gallons sparge water to 170° in old brew kettle
+1526 Begin sparge
+1556 Sparge complete
+1650 Hot break
+1720 Add 2 oz. Hallertau
+1805 Add 1 oz. Hallertau
+1819 Add 1 oz. Hallertau
+1823 Flame out
+     Begin chilling
+1935 Wort at ~75°, begin transfer to fermenters
+     Pitched yeast just after beginning transfer to each fermenter
+
+OG: 1.048 @70° F = 1.049
+
+
+Sunday 6/24/07
+
+Racked to carboy
+
+#4 Weihenstephan SG: 1.016 @66° F = 1.017
+ABV: .032/.75 = 4.3%
+
+#5 American SG: 1.012 @66° F = 1.013
+ABV: .036/.75 = 4.8%
+
+
+Keg in kegs B and C
+
+
+Sunday 7/8/07
+
+Kegged
+
+#4 Weihenstephan FG: 1.010 @69° F = 1.011
+ABV: .038/.75 = 5.1%
+Kegged in keb B
+
+#5 American FG: 1.010 @69° F = 1.011
+ABV: .038/.75 = 5.1%
+Kegged in keg C
+

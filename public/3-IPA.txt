@@ -1,0 +1,81 @@
+
+Denny Creek Hopitat IPA
+
+
+13 lbs. American 2 row
+1/2 lb. 10L Crystal Malt
+1/2 lb. 20L Crystal Malt
+
+2 oz Magnum 11.5% - 75 minutes
+2 oz Centennial - 0 minutes
+2 oz Centennial - dry hop in keg
+
+1098 British Ale yeast
+
+
+Mash at 150° to 152° for 60 min.
+Sparge with 165°-175° water to obtain about 7 gallons of wort
+Boil for 75 minutes
+Ferment at 66° to 68° 
+
+
+Mash water quantity: 14 lb. grain X 1.25 quarts/lb. + 4.5 = 22 quarts
+
+Water to grain ratio: 22 / 14 = 1.57 quarts/lb.
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.57)(152-70)+152
+Tw = .13 X 82 + 152
+Tw = 162.5° F
+
+
+Thursday 5/24 evening:
+
+Set out ~14 gallons of water (more than enough), to allow chlorine to evaporate and raise temperature
+
+
+Saturday 5/26/07:
+
+Heat mash water to 168° F
+1235 Begin dough in
+1237 Dough in complete, mash temperatrure 155° F
+1250 Activate yeast pack
+Heat sparge water to 165° F
+Mash temperatrure remained at 155° F for most of the hour
+1349 Begin sparge
+1415 Sparge complete, begin boil
+1502 Wort boiling
+1515 Hot break, add 2 oz. Magnum
+1630 Add 2 oz. Centennial, begin chilling
+Chilled to ~77° F in about 20 minutes
+Pitched yeast half way through transfer to fermenter
+
+OG: 1.070 @77° F = 1.071
+
+
+5/27   9:15 pm  68°  140 ppm
+
+5/28  11:45 am  68°  92 ppm
+      10:30 pm  68°  60 ppm
+
+5/29   7:45 pm  66°  38 ppm
+       9:00 pm  66°  28 ppm
+
+5/30   8:05 am  66°  24 ppm
+      10:20 pm  66°  24 ppm
+
+5/31   8:30 am  66°  16 ppm
+
+6/1    9:25 am  66°  4 ppm
+       8:35 pm  66°  4 ppm
+
+6/2    2:15 pm  66°  2 ppm
+       Racked to carboy
+
+SG: 1.010 @66° F = 1.011
+ABV: .060/.75 = 8.0%
+
+
+6/17  Kegged in keg A
+

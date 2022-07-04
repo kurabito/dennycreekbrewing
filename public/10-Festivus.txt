@@ -1,0 +1,86 @@
+
+Denny Creek Festivus Ale
+10 gallons
+
+
+26 lb 2 row (Great Western)
+2  lb 120L Crystal (Breiss)
+1  lb 60L Crystal (Breiss)
+
+2 oz Chinook 60 min
+2 oz Centennial 45 min
+2 oz Centennial 30 min
+2 oz Centennial 15 min
+2 oz Cascade while cooling
+2 oz Cascade dry
+2 oz Centennial dry
+
+Wyeast 1056 American Ale™ yeast
+
+
+Mash at 152° F for 90 minutes
+Sparge with 165°-175° F water to obtain about 13.75 gallons of wort
+Boil for 75 minutes
+Add hops according to schedule
+
+
+Mash water quantity: 29 lb. grain X 1.25 quarts/lb. = ~36 quarts = 9 gallons
+Target total wort: 9.5 boiled wort + .75 boiled hops absorption + 3.5 boiloff = 13.75 gallons
+Sparge water: 13.75 - 9 + 2 mash absorbtion = 6.75 gallons
+Total water quantity: 9 + 6.75 = 15.75 gallons
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.25)(152-45)+152
+Tw = .16 X 107 + 152
+Tw = 169.1° F
+
+
+
+Thursday 1/17/08 PM
+
+Set out ~18 gallons of water to allow chlorine to evaporate and raise temperature
+
+
+Friday 1/18/08 AM
+
+Make 2 quart starter from 1 Wyeast Activator pack
+
+
+Saturday 1/19/08
+
+Brewers present: Jeff, Ken, Robert, Charles
+11:45 Begin heating mash water (9 gallons, 169° F)
+12:15 Warm up mash tun
+12:45 Begin dough in
+12:55 Dough in complete
+13:05 Begin heating sparge water (9 gallons, 170° F)
+14:25 Begin sparge
+14:32 Burner on
+14:47 Sparge complete
+15:33 Hot break
+15:48 Add 2 oz Chinook
+16:05 Add 2 oz Centennial
+16:18 Add 2 oz Centennial
+16:33 Add 2 oz Centennial
+16:43 Add wort chiller
+16:48 Add 2 oz Cascade
+16:48 Burner off, begin chilling
+17:23 Wort at 72° F, begin transfer to fermenters
+17:35 Pitch yeast
+17:45 Transfer to fermenters complete
+
+OG: 1.060 at 72° F = 1.061
+
+
+Saturday 1/26/08:
+
+Rack
+
+
+Sunday 2/10/08
+
+Keg in kegs C and D
+FG: 1.007 at 66° = 1.008
+ABV: 1.061 - 1.008 / .75 = 7.1%
+

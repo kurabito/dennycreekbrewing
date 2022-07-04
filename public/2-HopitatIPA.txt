@@ -1,0 +1,105 @@
+
+All Grain Recipe - Stone IPA::: 1.063/1.010 (5 Gal)
+Grain Bill
+
+13 lbs. - 2 Row Pale Malt
+1/2 lb. - Crystal Malt (10L)
+1/2 lb. - Crystal Malt (20L)
+Hop Schedule
+
+1 oz - Magnum (75 Min.)
+1 oz - Centennial - at Flameout
+2 oz - Centennial - Dry Hop in secondary
+Yeast
+
+White Labs California Ale Yeast (WLP001) - 1800 ml starter
+Mash/Sparge/Boil
+
+Mash at 150° to 152° for 60 min.
+Sparge as usual
+Boil for 75 minutes (remember to compensate your water if you normally do 60 min boils)
+Cool and ferment at 66° to 68° 
+
+
+
+
+Specifics and revisions:
+
+13 lbs American 2 row
+2 oz Magnum 11.5%
+4 oz Centennial 
+Used 1098 British Ale yeast
+
+
+Mash water quantity: 14 lb. grain X 1.25 quarts/lb. + 4.5 = 22 quarts
+
+Water to grain ratio: 22 / 14 = 1.57 quarts/lb.
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.57)(152-70)+152
+Tw = .13 X 82 + 152
+Tw = 162.5° F
+
+
+Day before:
+
+Set out ~12 gallons of water, to allow chlorine to evaporate and raise temperature
+
+
+Brew Day (Sunday 3/25/07):
+
+Heat mash water to 168° F
+10:45 Begin dough in
+10:50 Dough in complete, mash temperatrure 152° F
+Remove yeast from refrigerator
+Heat sparge water to 165-175° F
+11:35 Added ~1 quart 170° water
+11:50 Begin sparge
+12:20 Sparge complete, begin boil
+13:04 Hot break, add 2 oz. Magnum 
+14:20 Begin chilling, add 2 oz. Centennial
+15:00 ~77° F, pitch yeast
+
+OG: 1.060
+
+
+3/26   9:00 am  63°  26 ppm
+       9:40 pm  65°  128 ppm  plugged in brew belt
+      11:15 pm  67°  unplugged brew belt
+
+3/27   8:45 am  68°  cleaned and replaced airlock
+       8:55 am  68°  196 ppm
+       9:10 pm  66°  122 ppm  plugged in brew belt
+      11:30 pm  70°  unplugged brew belt
+
+3/28   8:10 am  65°  plugged in brew belt
+       8:55 am  66°  52 ppm  unplugged brew belt
+       9:00 pm  66°  16 ppm
+
+3/29   7:00 am  62°  plugged in brew belt
+       9:10 am  66°  10 ppm
+       9:30 am  66°  unplugged brew belt
+      ~8:00 pm  62°  plugged in brew belt
+      11:15 pm  70°  12 ppm  unplugged brew belt
+
+3/30   8:40 am  65°  plugged in brew belt
+       9:15 am  66°  5 ppm  unplugged brew belt
+       8:05 pm  64°  plugged in brew belt
+
+3/31   8:40 am  72°  11 ppm  unplugged brew belt
+
+4/1   ~5:30 pm  68°  racked to carboy
+
+SG:  1.009
+ABV:  6.9%
+
+
+4/14  10:00 pm  68°  kegged
+
+SG:  1.009
+ABV:  6.9%
+
+
+
+

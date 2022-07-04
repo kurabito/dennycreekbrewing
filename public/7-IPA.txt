@@ -1,0 +1,74 @@
+
+Denny Creek Fresh Hopped IPA
+10 gallons
+
+
+26 lb American 2 row
+1  lb 10L Crystal Malt
+1  lb 20L Crystal Malt
+
+2 lb fresh Chinook - 75 minutes (approximate equivalent of 4 oz. dried hops)
+4 oz Centennial - 0 minutes
+4 oz Centennial - dry hop in kegs
+
+1098 British Ale yeast
+
+
+Mash at 150° to 152° for 60 min.
+Sparge with 165°-175° water to obtain about 13.5 gallons of wort
+Boil for 75 minutes
+Ferment at 66° to 68°
+
+
+Mash water quantity: 28 lb. grain X 1.25 quarts/lb. = 35 quarts = ~ 9 gallons
+Sparge water quantity: 9 * 2 = 18 gallons
+10 boiled wort + 1 boiled hops absorption + 2.5 boiloff + 4 mash absorbtion = 17.5
+
+Strike water temperature:
+Tw = (.2/r)(T2-T1)+T2
+Tw = (.2/1.25)(152-70)+152
+Tw = .16 X 82 + 152
+Tw = 165° F
+
+
+Saturday 9/15/07:
+
+Set out ~18 gallons of water to allow chlorine to evaporate and raise temperature
+Activated both packets of yeast, made a starter with one
+
+
+Sunday 9/16/07:
+
+Brew sponsor: Jeff
+Brewers present: Jeff, Ken, Charles, Amanda
+1045 Begin heating mash water, 9 gallons, heat to 165° F
+1220 Begin dough in
+1225 Dough in complete, mash temperatrure 155° F
+     Begin heating sparge water, 9 gallons, heat to 170° F
+1325 Begin sparge
+1350 Start burner under boil kettle
+1430 Sparge complete
+1450 Hot break, add 1.5 lb fresh Chinook hops (all we had), begin boil for 75 minutes
+1605 Burner off, add 4 oz. Centennial, begin chilling
+1640 Chilling complete, wort @ ~80° F
+1640 Begin transfer to fermenters
+1650 Pitch yeast
+1700 OG: 1.049 @ 76° F = 1.051
+1700 Transfer to fermenters complete
+
+
+Sunday 9/23/07:
+
+Racked to carboys
+SG: 1.012 @67° F = 1.013
+
+
+Saturday 10/6/07:
+
+Kegged to kegs C and A
+Carboy kegged in keg A FG: 1.010 @70° F = 1.011
+Carboy kegged in keg C FG: 1.008 @70° F = 1.009
+Dry hopped keg A only with 2 oz. Centennial
+
+ABV: 1.051 - 1.011 / .75 = 5.3%
+     1.051 - 1.009 / .75 = 5.6%
