@@ -173,10 +173,8 @@ img {
 }
 
 #single {
-  float: left;
-  width: 100%;
-  padding-left: 50px;
-  padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 #footer {
