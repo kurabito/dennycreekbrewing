@@ -1,7 +1,7 @@
 import {
   createRouter,
   createWebHistory
-} from 'vue-router/dist/vue-router.esm-bundler.js';
+} from 'vue-router/dist/vue-router.esm-bundler';
 import Home from './components/Home.vue';
 import BrewLogs from './components/BrewLogs.vue';
 import Labels from './components/Labels.vue';
