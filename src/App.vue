@@ -20,7 +20,7 @@ import Home from './components/Home.vue'
           <router-link to="/competitions">Competitions</router-link> |
           <a href="http://dennycreek.blogspot.com" target="_blank">Blog</a> |
           <a href="http://jbrog.blogspot.com" target="_blank">JBrog</a> |
-          <router-link to="/resources">Resources</router-link> |
+          <router-link to="/resources">Resources</router-link>
           <!-- <a href="/contact.aspx">Contact</a> -->
         </div>
       </div>
