@@ -43,7 +43,7 @@
                 <td>12/16/07</td>
             </tr>
             <tr>
-                <td><a href="10-Festivus.txt" target="_blank">#10 - Festivus Ale</a></a></td>
+                <td><a href="10-Festivus.txt" target="_blank">#10 - Festivus Ale</a></td>
                 <td>1/19/08</td>
             </tr>
             <tr>
