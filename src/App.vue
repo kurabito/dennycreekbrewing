@@ -1,26 +1,12 @@
 <script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue'
 import Home from './components/Home.vue'
 </script>
 
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
-  <!-- <HelloWorld msg="Hello Vue 3 + Vite" /> -->
-
   <div id="main">
     <div id="frame">
-      <!-- <dcb:header id="ctlHeader" runat="server"></dcb:header>
-            <div class="spacer">&nbsp;</div>
-            <dcb:nav id="ctlNavTop" runat="server"></dcb:nav> -->
       <div id="header">
-        <!-- <table id="headertable" align="center" cellpadding="0" cellspacing="0">
-          <tr>
-            <td><a href="default.aspx" class="nodecoration"><img src="./assets/icon2.png" border="0"></a></td>
-            <td><a href="default.aspx" class="nodecoration black">Denny Creek Brewing</a></td>
-          </tr>
-        </table> -->
         <a href="default.aspx" class="nodecoration"><img src="./assets/icon2.png" border="0"></a>
         <a href="default.aspx" class="nodecoration black">Denny Creek Brewing</a>
       </div>
@@ -41,15 +27,9 @@ import Home from './components/Home.vue'
       <div id="content">
         <router-view />
       </div>
-      <!-- <dcb:footer id="ctlFooter" runat="server"></dcb:footer> -->
-      <!-- To do: set end year dynamically -->
-      <div id="footer">&copy; 2007-2002 Denny Creek Brewing. All rights reserved.</div>
+      <div id="footer">&copy; 2007-{{ new Date().getFullYear() }} Denny Creek Brewing. All rights reserved.</div>
     </div>
   </div>
-
-
-
-
 </template>
 
 <style>
