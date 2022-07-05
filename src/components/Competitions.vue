@@ -9,20 +9,20 @@
         <p>Here are some of the documents related to the competition. Click on an image to see a larger version.</p>
         <table align="center">
             <tr>
-                <td class="centered"><a href="ESF2007/IPAOverall.bmp" target="_blank" class="small"><img
-                            src="ESF2007/IPAOverall.bmp" width="60" height="85" /><br />IPA<br />Overall</a></td>
-                <td class="centered"><a href="ESF2007/IPA1.jpg" target="_blank" class="small"><img
-                            src="ESF2007/IPA1.jpg" width="60" height="85" /><br />IPA<br />Score #1</a></td>
-                <td class="centered"><a href="ESF2007/IPA2.jpg" target="_blank" class="small"><img
-                            src="ESF2007/IPA2.jpg" width="60" height="85" /><br />IPA<br />Score #2</a></td>
-                <td class="centered"><a href="ESF2007/WheatOverall.bmp" target="_blank" class="small"><img
-                            src="ESF2007/WheatOverall.bmp" width="60" height="85" /><br />Wheat<br />Overall</a></td>
-                <td class="centered"><a href="ESF2007/Wheat1.jpg" target="_blank" class="small"><img
-                            src="ESF2007/Wheat1.jpg" width="60" height="85" /><br />Wheat<br />Score #1</a></td>
-                <td class="centered"><a href="ESF2007/Wheat2.jpg" target="_blank" class="small"><img
-                            src="ESF2007/Wheat2.jpg" width="60" height="85" /><br />Wheat<br />Score #2</a></td>
-                <td class="centered"><a href="ESF2007/award.jpg" target="_blank" class="small"><img
-                            src="ESF2007/award.jpg" width="60" height="85" /><br />Award<br />Check</a></td>
+                <td class="centered"><a href="/ESF2007/IPAOverall.bmp" target="_blank" class="small"><img
+                            src="/ESF2007/IPAOverall.bmp" width="60" height="85" /><br />IPA<br />Overall</a></td>
+                <td class="centered"><a href="/ESF2007/IPA1.jpg" target="_blank" class="small"><img
+                            src="/ESF2007/IPA1.jpg" width="60" height="85" /><br />IPA<br />Score #1</a></td>
+                <td class="centered"><a href="/ESF2007/IPA2.jpg" target="_blank" class="small"><img
+                            src="/ESF2007/IPA2.jpg" width="60" height="85" /><br />IPA<br />Score #2</a></td>
+                <td class="centered"><a href="/ESF2007/WheatOverall.bmp" target="_blank" class="small"><img
+                            src="/ESF2007/WheatOverall.bmp" width="60" height="85" /><br />Wheat<br />Overall</a></td>
+                <td class="centered"><a href="/ESF2007/Wheat1.jpg" target="_blank" class="small"><img
+                            src="/ESF2007/Wheat1.jpg" width="60" height="85" /><br />Wheat<br />Score #1</a></td>
+                <td class="centered"><a href="/ESF2007/Wheat2.jpg" target="_blank" class="small"><img
+                            src="/ESF2007/Wheat2.jpg" width="60" height="85" /><br />Wheat<br />Score #2</a></td>
+                <td class="centered"><a href="/ESF2007/award.jpg" target="_blank" class="small"><img
+                            src="/ESF2007/award.jpg" width="60" height="85" /><br />Award<br />Check</a></td>
             </tr>
         </table>
         <br />
