@@ -7,7 +7,7 @@
         <p>We entered an IPA and a wheat beer in the 2007 Evergreen State Fair homebrew competition. The wheat received
             a white ribbon and the IPA received a red, just one point short of a blue ribbon!</p>
         <p>Here are some of the documents related to the competition. Click on an image to see a larger version.</p>
-        <!-- <table align="center">
+        <table align="center">
             <tr>
                 <td class="centered"><a href="/ESF2007/IPAOverall.bmp" target="_blank" class="small"><img
                             src="/ESF2007/IPAOverall.bmp" width="60" height="85" /><br />IPA<br />Overall</a></td>
@@ -24,7 +24,7 @@
                 <td class="centered"><a href="/ESF2007/award.jpg" target="_blank" class="small"><img
                             src="/ESF2007/award.jpg" width="60" height="85" /><br />Award<br />Check</a></td>
             </tr>
-        </table> -->
+        </table>
         <br />
         <br />
         <br />
