@@ -1,14 +1,12 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import Home from './components/Home.vue'
 </script>
 
 <template>
   <div id="main">
     <div id="frame">
       <div id="header">
-        <a href="default.aspx" class="nodecoration"><img src="./assets/icon2.png" border="0"></a>
-        <a href="default.aspx" class="nodecoration black">Denny Creek Brewing</a>
+        <router-link to="/" class="nodecoration"><img src="./assets/icon2.png" border="0"></router-link>
+        <router-link to="/" class="nodecoration black">Denny Creek Brewing</router-link>
       </div>
       <div class="spacer">&nbsp;</div>
       <div id="nav">
