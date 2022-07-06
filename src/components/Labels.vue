@@ -1,4 +1,7 @@
-<script setup>
+<script>
+export default {
+    inject: ["bucket"],
+}
 </script>
 
 <template>
@@ -8,10 +11,10 @@
         <div class="centered">
             <table align="center">
                 <tr>
-                    <td><a href="/labels/large/0003.jpg" target="_blank"><img
-                                src="/labels/small/0003.jpg" /></a></td>
-                    <td><a href="/labels/large/0005.jpg" target="_blank"><img
-                                src="/labels/small/0005.jpg" /></a></td>
+                    <td><a :href="bucket + 'labels/large/0003.jpg'" target="_blank"><img
+                                :src=" bucket + 'labels/small/0003.jpg'" /></a></td>
+                    <td><a :href="bucket + 'labels/large/0005.jpg'" target="_blank"><img
+                                :src="bucket + 'labels/small/0005.jpg'" /></a></td>
                 </tr>
             </table>
         </div>
