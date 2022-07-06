@@ -1,11 +1,15 @@
-<script setup>
+<script>
+export default {
+  name: "App",
+  inject: ["bucket"],
+}
 </script>
 
 <template>
   <div id="main">
     <div id="frame">
       <div id="header">
-        <router-link to="/" class="nodecoration"><img src="./assets/icon2.png" border="0"></router-link>
+        <router-link to="/" class="nodecoration"><img :src="bucket + 'icon2.png'" border="0"></router-link>
         <router-link to="/" class="nodecoration black">Denny Creek Brewing</router-link>
       </div>
       <div class="spacer">&nbsp;</div>
